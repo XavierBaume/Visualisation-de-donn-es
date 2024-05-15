@@ -24,14 +24,14 @@
         "Geographic_area": "Canada",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 365,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2017,
+        "Year_of_IA_national_program": "2017",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "United States of America",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 868,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 23
     },
     {
@@ -59,21 +59,21 @@
         "Geographic_area": "Indonesia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
         "Geographic_area": "Argentina",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 3
     },
     {
         "Geographic_area": "Chile",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -94,7 +94,7 @@
         "Geographic_area": "Kenya",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 31,
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2022,
+        "Year_of_IA_national_program": "2022",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -122,14 +122,14 @@
         "Geographic_area": "Dominican Rep.",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 3,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program":"2023",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
         "Geographic_area": "Russia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 100,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 10
     },
     {
@@ -150,7 +150,7 @@
         "Geographic_area": "Norway",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 110,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -192,21 +192,21 @@
         "Geographic_area": "Mexico",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 82,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2018,
+        "Year_of_IA_national_program": "2018",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Uruguay",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 55,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Brazil",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 146,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
@@ -220,14 +220,14 @@
         "Geographic_area": "Peru",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
         "Geographic_area": "Colombia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -241,7 +241,7 @@
         "Geographic_area": "Costa Rica",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -304,7 +304,7 @@
         "Geographic_area": "France",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 256,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2018,
+        "Year_of_IA_national_program": "2018",
         "Number_of_AI_related_bills_passed_into_law": 7
     },
     {
@@ -325,14 +325,14 @@
         "Geographic_area": "Jamaica",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Cuba",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -360,7 +360,7 @@
         "Geographic_area": "Senegal",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -381,7 +381,7 @@
         "Geographic_area": "Benin",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -416,7 +416,7 @@
         "Geographic_area": "Ghana",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2022,
+        "Year_of_IA_national_program":"2022",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -451,7 +451,7 @@
         "Geographic_area": "Sierra Leone",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 0,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -535,7 +535,7 @@
         "Geographic_area": "Israel",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 7,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -570,35 +570,35 @@
         "Geographic_area": "Tunisia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
         "Geographic_area": "Algeria",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Jordan",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2022,
+        "Year_of_IA_national_program": "2022",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
         "Geographic_area": "United Arab Emirates",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "Qatar",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -612,7 +612,7 @@
         "Geographic_area": "Iraq",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -640,7 +640,7 @@
         "Geographic_area": "Thailand",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2022,
+        "Year_of_IA_national_program": "2022",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -661,7 +661,7 @@
         "Geographic_area": "Vietnam",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -675,7 +675,7 @@
         "Geographic_area": "South Korea",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 30,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -689,14 +689,14 @@
         "Geographic_area": "India",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 167,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2018,
+        "Year_of_IA_national_program":"2018",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "Bangladesh",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -717,7 +717,7 @@
         "Geographic_area": "Pakistan",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 3,
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -752,7 +752,7 @@
         "Geographic_area": "Iran",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2022,
+        "Year_of_IA_national_program": "2022",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -766,49 +766,49 @@
         "Geographic_area": "Armenia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 3,
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Sweden",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 99,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2018,
+        "Year_of_IA_national_program": "2018",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Belarus",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Ukraine",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 3,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Poland",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 10,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Austria",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 6
     },
     {
         "Geographic_area": "Hungary",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
@@ -822,56 +822,56 @@
         "Geographic_area": "Romania",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 43,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Lithuania",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Latvia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 11,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "Estonia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 74,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Germany",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 226,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2018,
+        "Year_of_IA_national_program": "2018",
         "Number_of_AI_related_bills_passed_into_law": 3
     },
     {
         "Geographic_area": "Bulgaria",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "Greece",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 184,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Turkey",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -885,56 +885,56 @@
         "Geographic_area": "Croatia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "Switzerland",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 44,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Luxembourg",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 0,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "Belgium",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 162,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2022,
+        "Year_of_IA_national_program": "2022",
         "Number_of_AI_related_bills_passed_into_law": 12
     },
     {
         "Geographic_area": "Netherlands",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 97,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Portugal",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 38,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 15
     },
     {
         "Geographic_area": "Spain",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 886,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 11
     },
     {
         "Geographic_area": "Ireland",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 514,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -955,14 +955,14 @@
         "Geographic_area": "New Zealand",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 59,
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Australia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 673,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -976,7 +976,7 @@
         "Geographic_area": "China",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 5,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2017,
+        "Year_of_IA_national_program": "2017",
         "Number_of_AI_related_bills_passed_into_law": 3
     },
     {
@@ -990,35 +990,35 @@
         "Geographic_area": "Italy",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 263,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2022,
+        "Year_of_IA_national_program": "2022",
         "Number_of_AI_related_bills_passed_into_law": 10
     },
     {
         "Geographic_area": "Denmark",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 47,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "United Kingdom",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 1490,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program":"2021",
         "Number_of_AI_related_bills_passed_into_law": 8
     },
     {
         "Geographic_area": "Iceland",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 116,
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "Azerbaijan",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 5,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -1032,14 +1032,14 @@
         "Geographic_area": "Philippines",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 3,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 5
     },
     {
         "Geographic_area": "Malaysia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 97,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -1053,28 +1053,28 @@
         "Geographic_area": "Slovenia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 15,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 3
     },
     {
         "Geographic_area": "Finland",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 112,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2017,
+        "Year_of_IA_national_program": "2017",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Slovakia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Czech Republic",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 16,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -1088,7 +1088,7 @@
         "Geographic_area": "Japan",
         "Number_of_mentions_of_AI_in_legislative_proceedings": 554,
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 2
     },
     {
@@ -1109,7 +1109,7 @@
         "Geographic_area": "Saudi Arabia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
@@ -1130,21 +1130,21 @@
         "Geographic_area": "Cyprus",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": 1
     },
     {
         "Geographic_area": "Morocco",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "In Development",
-        "Year_of_IA_national_program": 2021,
+        "Year_of_IA_national_program": "2021",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
         "Geographic_area": "Egypt",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2019,
+        "Year_of_IA_national_program": "2019",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -1158,7 +1158,7 @@
         "Geographic_area": "Ethiopia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -1186,7 +1186,7 @@
         "Geographic_area": "Rwanda",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2023,
+        "Year_of_IA_national_program": "2023",
         "Number_of_AI_related_bills_passed_into_law": "N/A"
     },
     {
@@ -1207,7 +1207,7 @@
         "Geographic_area": "Serbia",
         "Number_of_mentions_of_AI_in_legislative_proceedings": "N/A",
         "Status_of_IA_national_program": "Released",
-        "Year_of_IA_national_program": 2020,
+        "Year_of_IA_national_program": "2020",
         "Number_of_AI_related_bills_passed_into_law": 0
     },
     {
