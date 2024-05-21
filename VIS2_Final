@@ -1,0 +1,457 @@
+subject,year,number,region
+Economics_and_public_finance,2016,0,Sélection de pays
+Economics_and_public_finance,2017,1,Sélection de pays
+Economics_and_public_finance,2018,1,Sélection de pays
+Economics_and_public_finance,2019,3,Sélection de pays
+Economics_and_public_finance,2020,8,Sélection de pays
+Economics_and_public_finance,2021,6,Sélection de pays
+Economics_and_public_finance,2022,7,Sélection de pays
+Economics_and_public_finance,2023,5,Sélection de pays
+Civil_rights_and_liberties_and_minority_issues,2016,0,Sélection de pays
+Civil_rights_and_liberties_and_minority_issues,2017,0,Sélection de pays
+Civil_rights_and_liberties_and_minority_issues,2018,0,Sélection de pays
+Civil_rights_and_liberties_and_minority_issues,2019,0,Sélection de pays
+Civil_rights_and_liberties_and_minority_issues,2020,0,Sélection de pays
+Civil_rights_and_liberties_and_minority_issues,2021,1,Sélection de pays
+Civil_rights_and_liberties_and_minority_issues,2022,1,Sélection de pays
+Civil_rights_and_liberties_and_minority_issues,2023,2,Sélection de pays
+Energy,2016,0,Sélection de pays
+Energy,2017,0,Sélection de pays
+Energy,2018,0,Sélection de pays
+Energy,2019,0,Sélection de pays
+Energy,2020,1,Sélection de pays
+Energy,2021,0,Sélection de pays
+Energy,2022,0,Sélection de pays
+Energy,2023,0,Sélection de pays
+Arts_culture_religion,2016,0,Sélection de pays
+Arts_culture_religion,2017,0,Sélection de pays
+Arts_culture_religion,2018,0,Sélection de pays
+Arts_culture_religion,2019,0,Sélection de pays
+Arts_culture_religion,2020,0,Sélection de pays
+Arts_culture_religion,2021,0,Sélection de pays
+Arts_culture_religion,2022,1,Sélection de pays
+Arts_culture_religion,2023,0,Sélection de pays
+Foreign_trade_and_international_finance,2016,0,Sélection de pays
+Foreign_trade_and_international_finance,2017,0,Sélection de pays
+Foreign_trade_and_international_finance,2018,0,Sélection de pays
+Foreign_trade_and_international_finance,2019,0,Sélection de pays
+Foreign_trade_and_international_finance,2020,0,Sélection de pays
+Foreign_trade_and_international_finance,2021,0,Sélection de pays
+Foreign_trade_and_international_finance,2022,0,Sélection de pays
+Foreign_trade_and_international_finance,2023,1,Sélection de pays
+Commerce,2016,0,Sélection de pays
+Commerce,2017,1,Sélection de pays
+Commerce,2018,0,Sélection de pays
+Commerce,2019,0,Sélection de pays
+Commerce,2020,1,Sélection de pays
+Commerce,2021,0,Sélection de pays
+Commerce,2022,1,Sélection de pays
+Commerce,2023,2,Sélection de pays
+Crime_and_law_enforcement,2016,0,Sélection de pays
+Crime_and_law_enforcement,2017,0,Sélection de pays
+Crime_and_law_enforcement,2018,0,Sélection de pays
+Crime_and_law_enforcement,2019,1,Sélection de pays
+Crime_and_law_enforcement,2020,0,Sélection de pays
+Crime_and_law_enforcement,2021,1,Sélection de pays
+Crime_and_law_enforcement,2022,1,Sélection de pays
+Crime_and_law_enforcement,2023,1,Sélection de pays
+labor_and_employment,2016,0,Sélection de pays
+labor_and_employment,2017,0,Sélection de pays
+labor_and_employment,2018,0,Sélection de pays
+labor_and_employment,2019,1,Sélection de pays
+labor_and_employment,2020,0,Sélection de pays
+labor_and_employment,2021,3,Sélection de pays
+labor_and_employment,2022,4,Sélection de pays
+labor_and_employment,2023,2,Sélection de pays
+Health,2016,0,Sélection de pays
+Health,2017,0,Sélection de pays
+Health,2018,1,Sélection de pays
+Health,2019,2,Sélection de pays
+Health,2020,1,Sélection de pays
+Health,2021,0,Sélection de pays
+Health,2022,0,Sélection de pays
+Health,2023,0,Sélection de pays
+Finance_and_financial_sector,2016,0,Sélection de pays
+Finance_and_financial_sector,2017,0,Sélection de pays
+Finance_and_financial_sector,2018,0,Sélection de pays
+Finance_and_financial_sector,2019,0,Sélection de pays
+Finance_and_financial_sector,2020,0,Sélection de pays
+Finance_and_financial_sector,2021,0,Sélection de pays
+Finance_and_financial_sector,2022,0,Sélection de pays
+Finance_and_financial_sector,2023,1,Sélection de pays
+Transportation_and_public_works,2016,0,Sélection de pays
+Transportation_and_public_works,2017,0,Sélection de pays
+Transportation_and_public_works,2018,1,Sélection de pays
+Transportation_and_public_works,2019,0,Sélection de pays
+Transportation_and_public_works,2020,0,Sélection de pays
+Transportation_and_public_works,2021,0,Sélection de pays
+Transportation_and_public_works,2022,0,Sélection de pays
+Transportation_and_public_works,2023,0,Sélection de pays
+Immigration,2016,0,Sélection de pays
+Immigration,2017,0,Sélection de pays
+Immigration,2018,0,Sélection de pays
+Immigration,2019,0,Sélection de pays
+Immigration,2020,0,Sélection de pays
+Immigration,2021,0,Sélection de pays
+Immigration,2022,0,Sélection de pays
+Immigration,2023,0,Sélection de pays
+Taxation,2016,0,Sélection de pays
+Taxation,2017,0,Sélection de pays
+Taxation,2018,0,Sélection de pays
+Taxation,2019,0,Sélection de pays
+Taxation,2020,0,Sélection de pays
+Taxation,2021,1,Sélection de pays
+Taxation,2022,0,Sélection de pays
+Taxation,2023,0,Sélection de pays
+Science_and_technology_and_communications,2016,1,Sélection de pays
+Science_and_technology_and_communications,2017,0,Sélection de pays
+Science_and_technology_and_communications,2018,2,Sélection de pays
+Science_and_technology_and_communications,2019,1,Sélection de pays
+Science_and_technology_and_communications,2020,4,Sélection de pays
+Science_and_technology_and_communications,2021,2,Sélection de pays
+Science_and_technology_and_communications,2022,2,Sélection de pays
+Science_and_technology_and_communications,2023,2,Sélection de pays
+Government_operations_and_politics,2016,0,Sélection de pays
+Government_operations_and_politics,2017,0,Sélection de pays
+Government_operations_and_politics,2018,0,Sélection de pays
+Government_operations_and_politics,2019,0,Sélection de pays
+Government_operations_and_politics,2020,0,Sélection de pays
+Government_operations_and_politics,2021,1,Sélection de pays
+Government_operations_and_politics,2022,2,Sélection de pays
+Government_operations_and_politics,2023,0,Sélection de pays
+Housing_and_community,2016,0,Sélection de pays
+Housing_and_community,2017,0,Sélection de pays
+Housing_and_community,2018,0,Sélection de pays
+Housing_and_community,2019,0,Sélection de pays
+Housing_and_community,2020,0,Sélection de pays
+Housing_and_community,2021,0,Sélection de pays
+Housing_and_community,2022,0,Sélection de pays
+Housing_and_community,2023,0,Sélection de pays
+Armed_forces_and_national_security,2016,0,Sélection de pays
+Armed_forces_and_national_security,2017,1,Sélection de pays
+Armed_forces_and_national_security,2018,2,Sélection de pays
+Armed_forces_and_national_security,2019,1,Sélection de pays
+Armed_forces_and_national_security,2020,0,Sélection de pays
+Armed_forces_and_national_security,2021,3,Sélection de pays
+Armed_forces_and_national_security,2022,2,Sélection de pays
+Armed_forces_and_national_security,2023,2,Sélection de pays
+Education,2016,0,Sélection de pays
+Education,2017,0,Sélection de pays
+Education,2018,0,Sélection de pays
+Education,2019,0,Sélection de pays
+Education,2020,3,Sélection de pays
+Education,2021,1,Sélection de pays
+Education,2022,0,Sélection de pays
+Education,2023,2,Sélection de pays
+Environmental_protection,2016,0,Sélection de pays
+Environmental_protection,2017,0,Sélection de pays
+Environmental_protection,2018,0,Sélection de pays
+Environmental_protection,2019,0,Sélection de pays
+Environmental_protection,2020,0,Sélection de pays
+Environmental_protection,2021,1,Sélection de pays
+Environmental_protection,2022,0,Sélection de pays
+Environmental_protection,2023,0,Sélection de pays
+Economics_and_public_finance,2016,0,Etats Unis d'Amérique
+Economics_and_public_finance,2017,0,Etats Unis d'Amérique
+Economics_and_public_finance,2018,0,Etats Unis d'Amérique
+Economics_and_public_finance,2019,0,Etats Unis d'Amérique
+Economics_and_public_finance,2020,0,Etats Unis d'Amérique
+Economics_and_public_finance,2021,0,Etats Unis d'Amérique
+Economics_and_public_finance,2022,0,Etats Unis d'Amérique
+Economics_and_public_finance,2023,0,Etats Unis d'Amérique
+Civil_rights_and_liberties_and_minority_issues,2016,0,Etats Unis d'Amérique
+Civil_rights_and_liberties_and_minority_issues,2017,0,Etats Unis d'Amérique
+Civil_rights_and_liberties_and_minority_issues,2018,0,Etats Unis d'Amérique
+Civil_rights_and_liberties_and_minority_issues,2019,0,Etats Unis d'Amérique
+Civil_rights_and_liberties_and_minority_issues,2020,0,Etats Unis d'Amérique
+Civil_rights_and_liberties_and_minority_issues,2021,0,Etats Unis d'Amérique
+Civil_rights_and_liberties_and_minority_issues,2022,0,Etats Unis d'Amérique
+Civil_rights_and_liberties_and_minority_issues,2023,1,Etats Unis d'Amérique
+Energy,2016,0,Etats Unis d'Amérique
+Energy,2017,0,Etats Unis d'Amérique
+Energy,2018,0,Etats Unis d'Amérique
+Energy,2019,0,Etats Unis d'Amérique
+Energy,2020,0,Etats Unis d'Amérique
+Energy,2021,0,Etats Unis d'Amérique
+Energy,2022,0,Etats Unis d'Amérique
+Energy,2023,0,Etats Unis d'Amérique
+Arts_culture_religion,2016,0,Etats Unis d'Amérique
+Arts_culture_religion,2017,0,Etats Unis d'Amérique
+Arts_culture_religion,2018,0,Etats Unis d'Amérique
+Arts_culture_religion,2019,0,Etats Unis d'Amérique
+Arts_culture_religion,2020,0,Etats Unis d'Amérique
+Arts_culture_religion,2021,0,Etats Unis d'Amérique
+Arts_culture_religion,2022,0,Etats Unis d'Amérique
+Arts_culture_religion,2023,0,Etats Unis d'Amérique
+Foreign_trade_and_international_finance,2016,0,Etats Unis d'Amérique
+Foreign_trade_and_international_finance,2017,0,Etats Unis d'Amérique
+Foreign_trade_and_international_finance,2018,0,Etats Unis d'Amérique
+Foreign_trade_and_international_finance,2019,0,Etats Unis d'Amérique
+Foreign_trade_and_international_finance,2020,0,Etats Unis d'Amérique
+Foreign_trade_and_international_finance,2021,0,Etats Unis d'Amérique
+Foreign_trade_and_international_finance,2022,2,Etats Unis d'Amérique
+Foreign_trade_and_international_finance,2023,3,Etats Unis d'Amérique
+Commerce,2016,0,Etats Unis d'Amérique
+Commerce,2017,0,Etats Unis d'Amérique
+Commerce,2018,0,Etats Unis d'Amérique
+Commerce,2019,0,Etats Unis d'Amérique
+Commerce,2020,0,Etats Unis d'Amérique
+Commerce,2021,1,Etats Unis d'Amérique
+Commerce,2022,0,Etats Unis d'Amérique
+Commerce,2023,2,Etats Unis d'Amérique
+Crime_and_law_enforcement,2016,0,Etats Unis d'Amérique
+Crime_and_law_enforcement,2017,0,Etats Unis d'Amérique
+Crime_and_law_enforcement,2018,0,Etats Unis d'Amérique
+Crime_and_law_enforcement,2019,0,Etats Unis d'Amérique
+Crime_and_law_enforcement,2020,0,Etats Unis d'Amérique
+Crime_and_law_enforcement,2021,1,Etats Unis d'Amérique
+Crime_and_law_enforcement,2022,0,Etats Unis d'Amérique
+Crime_and_law_enforcement,2023,0,Etats Unis d'Amérique
+labor_and_employment,2016,0,Etats Unis d'Amérique
+labor_and_employment,2017,0,Etats Unis d'Amérique
+labor_and_employment,2018,1,Etats Unis d'Amérique
+labor_and_employment,2019,0,Etats Unis d'Amérique
+labor_and_employment,2020,0,Etats Unis d'Amérique
+labor_and_employment,2021,0,Etats Unis d'Amérique
+labor_and_employment,2022,0,Etats Unis d'Amérique
+labor_and_employment,2023,0,Etats Unis d'Amérique
+Health,2016,0,Etats Unis d'Amérique
+Health,2017,0,Etats Unis d'Amérique
+Health,2018,0,Etats Unis d'Amérique
+Health,2019,0,Etats Unis d'Amérique
+Health,2020,3,Etats Unis d'Amérique
+Health,2021,4,Etats Unis d'Amérique
+Health,2022,1,Etats Unis d'Amérique
+Health,2023,2,Etats Unis d'Amérique
+Finance_and_financial_sector,2016,0,Etats Unis d'Amérique
+Finance_and_financial_sector,2017,0,Etats Unis d'Amérique
+Finance_and_financial_sector,2018,0,Etats Unis d'Amérique
+Finance_and_financial_sector,2019,0,Etats Unis d'Amérique
+Finance_and_financial_sector,2020,0,Etats Unis d'Amérique
+Finance_and_financial_sector,2021,0,Etats Unis d'Amérique
+Finance_and_financial_sector,2022,1,Etats Unis d'Amérique
+Finance_and_financial_sector,2023,0,Etats Unis d'Amérique
+Transportation_and_public_works,2016,0,Etats Unis d'Amérique
+Transportation_and_public_works,2017,0,Etats Unis d'Amérique
+Transportation_and_public_works,2018,0,Etats Unis d'Amérique
+Transportation_and_public_works,2019,0,Etats Unis d'Amérique
+Transportation_and_public_works,2020,0,Etats Unis d'Amérique
+Transportation_and_public_works,2021,0,Etats Unis d'Amérique
+Transportation_and_public_works,2022,0,Etats Unis d'Amérique
+Transportation_and_public_works,2023,0,Etats Unis d'Amérique
+Immigration,2016,1,Etats Unis d'Amérique
+Immigration,2017,0,Etats Unis d'Amérique
+Immigration,2018,0,Etats Unis d'Amérique
+Immigration,2019,0,Etats Unis d'Amérique
+Immigration,2020,0,Etats Unis d'Amérique
+Immigration,2021,0,Etats Unis d'Amérique
+Immigration,2022,0,Etats Unis d'Amérique
+Immigration,2023,0,Etats Unis d'Amérique
+Taxation,2016,0,Etats Unis d'Amérique
+Taxation,2017,0,Etats Unis d'Amérique
+Taxation,2018,0,Etats Unis d'Amérique
+Taxation,2019,0,Etats Unis d'Amérique
+Taxation,2020,0,Etats Unis d'Amérique
+Taxation,2021,0,Etats Unis d'Amérique
+Taxation,2022,0,Etats Unis d'Amérique
+Taxation,2023,0,Etats Unis d'Amérique
+Science_and_technology_and_communications,2016,0,Etats Unis d'Amérique
+Science_and_technology_and_communications,2017,0,Etats Unis d'Amérique
+Science_and_technology_and_communications,2018,0,Etats Unis d'Amérique
+Science_and_technology_and_communications,2019,2,Etats Unis d'Amérique
+Science_and_technology_and_communications,2020,0,Etats Unis d'Amérique
+Science_and_technology_and_communications,2021,0,Etats Unis d'Amérique
+Science_and_technology_and_communications,2022,1,Etats Unis d'Amérique
+Science_and_technology_and_communications,2023,2,Etats Unis d'Amérique
+Government_operations_and_politics,2016,0,Etats Unis d'Amérique
+Government_operations_and_politics,2017,0,Etats Unis d'Amérique
+Government_operations_and_politics,2018,0,Etats Unis d'Amérique
+Government_operations_and_politics,2019,0,Etats Unis d'Amérique
+Government_operations_and_politics,2020,2,Etats Unis d'Amérique
+Government_operations_and_politics,2021,0,Etats Unis d'Amérique
+Government_operations_and_politics,2022,0,Etats Unis d'Amérique
+Government_operations_and_politics,2023,0,Etats Unis d'Amérique
+Housing_and_community,2016,0,Etats Unis d'Amérique
+Housing_and_community,2017,0,Etats Unis d'Amérique
+Housing_and_community,2018,0,Etats Unis d'Amérique
+Housing_and_community,2019,0,Etats Unis d'Amérique
+Housing_and_community,2020,1,Etats Unis d'Amérique
+Housing_and_community,2021,0,Etats Unis d'Amérique
+Housing_and_community,2022,0,Etats Unis d'Amérique
+Housing_and_community,2023,0,Etats Unis d'Amérique
+Armed_forces_and_national_security,2016,0,Etats Unis d'Amérique
+Armed_forces_and_national_security,2017,0,Etats Unis d'Amérique
+Armed_forces_and_national_security,2018,0,Etats Unis d'Amérique
+Armed_forces_and_national_security,2019,0,Etats Unis d'Amérique
+Armed_forces_and_national_security,2020,0,Etats Unis d'Amérique
+Armed_forces_and_national_security,2021,0,Etats Unis d'Amérique
+Armed_forces_and_national_security,2022,0,Etats Unis d'Amérique
+Armed_forces_and_national_security,2023,1,Etats Unis d'Amérique
+Education,2016,0,Etats Unis d'Amérique
+Education,2017,0,Etats Unis d'Amérique
+Education,2018,0,Etats Unis d'Amérique
+Education,2019,0,Etats Unis d'Amérique
+Education,2020,1,Etats Unis d'Amérique
+Education,2021,0,Etats Unis d'Amérique
+Education,2022,0,Etats Unis d'Amérique
+Education,2023,0,Etats Unis d'Amérique
+Environmental_protection,2016,0,Etats Unis d'Amérique
+Environmental_protection,2017,0,Etats Unis d'Amérique
+Environmental_protection,2018,0,Etats Unis d'Amérique
+Environmental_protection,2019,0,Etats Unis d'Amérique
+Environmental_protection,2020,0,Etats Unis d'Amérique
+Environmental_protection,2021,0,Etats Unis d'Amérique
+Environmental_protection,2022,0,Etats Unis d'Amérique
+Environmental_protection,2023,0,Etats Unis d'Amérique
+Economics_and_public_finance,2016,0,Union Européenne
+Economics_and_public_finance,2017,0,Union Européenne
+Economics_and_public_finance,2018,0,Union Européenne
+Economics_and_public_finance,2019,0,Union Européenne
+Economics_and_public_finance,2020,0,Union Européenne
+Economics_and_public_finance,2021,2,Union Européenne
+Economics_and_public_finance,2022,0,Union Européenne
+Economics_and_public_finance,2023,2,Union Européenne
+Civil_rights_and_liberties_and_minority_issues,2016,0,Union Européenne
+Civil_rights_and_liberties_and_minority_issues,2017,0,Union Européenne
+Civil_rights_and_liberties_and_minority_issues,2018,0,Union Européenne
+Civil_rights_and_liberties_and_minority_issues,2019,0,Union Européenne
+Civil_rights_and_liberties_and_minority_issues,2020,0,Union Européenne
+Civil_rights_and_liberties_and_minority_issues,2021,1,Union Européenne
+Civil_rights_and_liberties_and_minority_issues,2022,0,Union Européenne
+Civil_rights_and_liberties_and_minority_issues,2023,1,Union Européenne
+Energy,2016,0,Union Européenne
+Energy,2017,0,Union Européenne
+Energy,2018,0,Union Européenne
+Energy,2019,0,Union Européenne
+Energy,2020,0,Union Européenne
+Energy,2021,1,Union Européenne
+Energy,2022,0,Union Européenne
+Energy,2023,0,Union Européenne
+Arts_culture_religion,2016,0,Union Européenne
+Arts_culture_religion,2017,0,Union Européenne
+Arts_culture_religion,2018,0,Union Européenne
+Arts_culture_religion,2019,0,Union Européenne
+Arts_culture_religion,2020,0,Union Européenne
+Arts_culture_religion,2021,1,Union Européenne
+Arts_culture_religion,2022,0,Union Européenne
+Arts_culture_religion,2023,0,Union Européenne
+Foreign_trade_and_international_finance,2016,0,Union Européenne
+Foreign_trade_and_international_finance,2017,0,Union Européenne
+Foreign_trade_and_international_finance,2018,0,Union Européenne
+Foreign_trade_and_international_finance,2019,1,Union Européenne
+Foreign_trade_and_international_finance,2020,0,Union Européenne
+Foreign_trade_and_international_finance,2021,3,Union Européenne
+Foreign_trade_and_international_finance,2022,0,Union Européenne
+Foreign_trade_and_international_finance,2023,0,Union Européenne
+Commerce,2016,0,Union Européenne
+Commerce,2017,0,Union Européenne
+Commerce,2018,0,Union Européenne
+Commerce,2019,0,Union Européenne
+Commerce,2020,1,Union Européenne
+Commerce,2021,2,Union Européenne
+Commerce,2022,2,Union Européenne
+Commerce,2023,1,Union Européenne
+Crime_and_law_enforcement,2016,0,Union Européenne
+Crime_and_law_enforcement,2017,0,Union Européenne
+Crime_and_law_enforcement,2018,0,Union Européenne
+Crime_and_law_enforcement,2019,0,Union Européenne
+Crime_and_law_enforcement,2020,0,Union Européenne
+Crime_and_law_enforcement,2021,0,Union Européenne
+Crime_and_law_enforcement,2022,1,Union Européenne
+Crime_and_law_enforcement,2023,0,Union Européenne
+labor_and_employment,2016,0,Union Européenne
+labor_and_employment,2017,0,Union Européenne
+labor_and_employment,2018,0,Union Européenne
+labor_and_employment,2019,0,Union Européenne
+labor_and_employment,2020,0,Union Européenne
+labor_and_employment,2021,0,Union Européenne
+labor_and_employment,2022,0,Union Européenne
+labor_and_employment,2023,0,Union Européenne
+Health,2016,0,Union Européenne
+Health,2017,0,Union Européenne
+Health,2018,0,Union Européenne
+Health,2019,0,Union Européenne
+Health,2020,0,Union Européenne
+Health,2021,0,Union Européenne
+Health,2022,4,Union Européenne
+Health,2023,0,Union Européenne
+Finance_and_financial_sector,2016,0,Union Européenne
+Finance_and_financial_sector,2017,0,Union Européenne
+Finance_and_financial_sector,2018,0,Union Européenne
+Finance_and_financial_sector,2019,1,Union Européenne
+Finance_and_financial_sector,2020,0,Union Européenne
+Finance_and_financial_sector,2021,0,Union Européenne
+Finance_and_financial_sector,2022,0,Union Européenne
+Finance_and_financial_sector,2023,0,Union Européenne
+Transportation_and_public_works,2016,0,Union Européenne
+Transportation_and_public_works,2017,0,Union Européenne
+Transportation_and_public_works,2018,0,Union Européenne
+Transportation_and_public_works,2019,0,Union Européenne
+Transportation_and_public_works,2020,0,Union Européenne
+Transportation_and_public_works,2021,0,Union Européenne
+Transportation_and_public_works,2022,0,Union Européenne
+Transportation_and_public_works,2023,1,Union Européenne
+Immigration,2016,0,Union Européenne
+Immigration,2017,0,Union Européenne
+Immigration,2018,0,Union Européenne
+Immigration,2019,0,Union Européenne
+Immigration,2020,0,Union Européenne
+Immigration,2021,0,Union Européenne
+Immigration,2022,0,Union Européenne
+Immigration,2023,0,Union Européenne
+Taxation,2016,0,Union Européenne
+Taxation,2017,0,Union Européenne
+Taxation,2018,0,Union Européenne
+Taxation,2019,0,Union Européenne
+Taxation,2020,0,Union Européenne
+Taxation,2021,0,Union Européenne
+Taxation,2022,0,Union Européenne
+Taxation,2023,0,Union Européenne
+Science_and_technology_and_communications,2016,0,Union Européenne
+Science_and_technology_and_communications,2017,0,Union Européenne
+Science_and_technology_and_communications,2018,1,Union Européenne
+Science_and_technology_and_communications,2019,2,Union Européenne
+Science_and_technology_and_communications,2020,4,Union Européenne
+Science_and_technology_and_communications,2021,6,Union Européenne
+Science_and_technology_and_communications,2022,2,Union Européenne
+Science_and_technology_and_communications,2023,5,Union Européenne
+Government_operations_and_politics,2016,0,Union Européenne
+Government_operations_and_politics,2017,0,Union Européenne
+Government_operations_and_politics,2018,0,Union Européenne
+Government_operations_and_politics,2019,0,Union Européenne
+Government_operations_and_politics,2020,2,Union Européenne
+Government_operations_and_politics,2021,5,Union Européenne
+Government_operations_and_politics,2022,2,Union Européenne
+Government_operations_and_politics,2023,3,Union Européenne
+Housing_and_community,2016,0,Union Européenne
+Housing_and_community,2017,0,Union Européenne
+Housing_and_community,2018,0,Union Européenne
+Housing_and_community,2019,0,Union Européenne
+Housing_and_community,2020,0,Union Européenne
+Housing_and_community,2021,0,Union Européenne
+Housing_and_community,2022,0,Union Européenne
+Housing_and_community,2023,0,Union Européenne
+Armed_forces_and_national_security,2016,0,Union Européenne
+Armed_forces_and_national_security,2017,1,Union Européenne
+Armed_forces_and_national_security,2018,0,Union Européenne
+Armed_forces_and_national_security,2019,0,Union Européenne
+Armed_forces_and_national_security,2020,0,Union Européenne
+Armed_forces_and_national_security,2021,0,Union Européenne
+Armed_forces_and_national_security,2022,0,Union Européenne
+Armed_forces_and_national_security,2023,0,Union Européenne
+Education,2016,0,Union Européenne
+Education,2017,0,Union Européenne
+Education,2018,0,Union Européenne
+Education,2019,1,Union Européenne
+Education,2020,0,Union Européenne
+Education,2021,0,Union Européenne
+Education,2022,0,Union Européenne
+Education,2023,0,Union Européenne
+Environmental_protection,2016,0,Union Européenne
+Environmental_protection,2017,0,Union Européenne
+Environmental_protection,2018,0,Union Européenne
+Environmental_protection,2019,0,Union Européenne
+Environmental_protection,2020,0,Union Européenne
+Environmental_protection,2021,0,Union Européenne
+Environmental_protection,2022,0,Union Européenne
+Environmental_protection,2023,0,Union Européenne
