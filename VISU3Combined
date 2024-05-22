@@ -1,4 +1,6 @@
 Year,Number of AI-related regulations,Region
+"2015",0,UE
+"2016",1,UE
 "2017",2,EU
 "2017",1,US
 "2018",4,EU
@@ -7,6 +9,7 @@ Year,Number of AI-related regulations,Region
 "2021",46,EU
 "2022",22,EU
 "2023",32,EU
+"2015",0,US
 "2016",1,US
 "2018",3,US
 "2019",10,US
